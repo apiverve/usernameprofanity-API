@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/usernameprofanity",
+  "version": "1.0.0",
+  "description": "Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/usernameprofanity-API.git"
+  },
+  "keywords": [
+    "username profanity checker"," username profanity checker api"," username profanity checker tool"," username profanity checker software"," username profanity checker service"," username profanity checker library"," username profanity checker sdk"," username profanity checker code"," username profanity checker script"," username profanity checker program"," username profanity checker application"," username profanity checker app"," username profanity checker utility"," username profanity checker helper"," username profanity checker helper tool"," username profanity checker helper software"," username profanity checker helper service"," username profanity checker helper library"," username profanity checker helper sdk"," username profanity checker helper code"," username profanity checker helper script"," username profanity checker helper program"," username profanity checker helper application"," username profanity checker helper app"," username profanity checker helper utility"," username profanity checker helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/usernameprofanity-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/usernameprofanity-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
