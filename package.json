@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/usernameprofanity-API.git"
   },
   "keywords": [
-    "username profanity checker"," username profanity checker api"," username profanity checker tool"," username profanity checker software"," username profanity checker service"," username profanity checker library"," username profanity checker sdk"," username profanity checker code"," username profanity checker script"," username profanity checker program"," username profanity checker application"," username profanity checker app"," username profanity checker utility"," username profanity checker helper"," username profanity checker helper tool"," username profanity checker helper software"," username profanity checker helper service"," username profanity checker helper library"," username profanity checker helper sdk"," username profanity checker helper code"," username profanity checker helper script"," username profanity checker helper program"," username profanity checker helper application"," username profanity checker helper app"," username profanity checker helper utility"," username profanity checker helper"
+    "username profanity checker","username profanity checker api","username profanity checker tool","username profanity checker software","username profanity checker service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
