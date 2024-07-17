@@ -1,4 +1,4 @@
-Username Profanity Checker API
+Username Profanity API
 ============
 
 Username Profanity Checker is a simple tool for checking if a username is inappropriate or profane. It returns if the username is inappropriate or profane.
@@ -7,7 +7,7 @@ Username Profanity Checker is a simple tool for checking if a username is inappr
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Javascript Wrapper for the [Username Profanity Checker API](https://apiverve.com/marketplace/api/usernameprofanity)
+This is a Javascript Wrapper for the [Username Profanity API](https://apiverve.com/marketplace/api/usernameprofanity)
 
 ---
 
@@ -25,7 +25,7 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Username Profanity Checker API documentation is found here: [https://docs.apiverve.com/api/usernameprofanity](https://docs.apiverve.com/api/usernameprofanity).  
+The Username Profanity API documentation is found here: [https://docs.apiverve.com/api/usernameprofanity](https://docs.apiverve.com/api/usernameprofanity).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
