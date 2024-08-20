@@ -73,7 +73,8 @@ api.execute(query, function (error, data) {
   "data": {
     "username": "b00bs",
     "isProfane": true
-  }
+  },
+  "code": 200
 }
 ```
 
